@@ -6,7 +6,7 @@ This repository documents PrimeFaces Sakai React as a Storybook-based design sys
 
 ## Agentic SDLC Workflow
 
-The component-review campaign is complete. GitHub Issues in `marcosrocha85/primereact-storybook` remains the source of truth for future work, but there is no standing component queue or local TODO backlog. Do not invent work when no issue or user-approved scope exists, and do not use a batch implementation runner.
+The component-review campaign is complete. GitHub Issues in `marcosrochagpm/primereact-storybook` remains the source of truth for future work, but there is no standing component queue or local TODO backlog. Do not invent work when no issue or user-approved scope exists, and do not use a batch implementation runner.
 
 Every new component or material component change follows these stages:
 
