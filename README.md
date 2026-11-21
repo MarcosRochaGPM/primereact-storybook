@@ -2,7 +2,7 @@
 
 React + Vite Storybook for documenting the [PrimeFaces Sakai React](https://github.com/primefaces/sakai-react) template as a design system.
 
-[View the published Storybook](https://marcosrocha85.github.io/primereact-storybook/).
+[View the published Storybook](https://marcosrochagpm.github.io/primereact-storybook/).
 
 ## Scripts
 
